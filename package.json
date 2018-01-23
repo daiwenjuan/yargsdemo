@@ -1,0 +1,22 @@
+{
+  "name": "yargsdemo",
+  "version": "1.0.0",
+  "description": "yargsdemo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daiwenjuan/yargsdemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daiwenjuan/yargsdemo/issues"
+  },
+  "homepage": "https://github.com/daiwenjuan/yargsdemo#readme",
+  "dependencies": {
+    "yargs": "^10.1.1"
+  }
+}
