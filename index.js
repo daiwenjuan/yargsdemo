@@ -10,5 +10,6 @@ function test() {
   }
 }
 test()
+
 //node index.js --l=zh-cn      zh_cn
 //node index.js --l=en           en
